@@ -1,3 +1,2 @@
 # hello-world
-Just another repo
-Just another change
+Just to try out GitHub
